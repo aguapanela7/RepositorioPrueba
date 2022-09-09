@@ -1,5 +1,5 @@
 function comprar (){
-    console.log('compra exitosa');
+    console.log('compra exitosa aaaaaa');
 }
 
 comprar();
