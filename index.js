@@ -3,3 +3,11 @@ function comprar (){
 }
 
 comprar();
+
+function verificarSaldo (){
+    console.log('verificar saldo');
+}
+
+function verificarCredito (){
+    console.log('verificar credito');
+}
