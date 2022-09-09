@@ -11,3 +11,7 @@ function verificarSaldo (){
 function verificarCredito (){
     console.log('verificar credito');
 }
+
+function verificarOtro (){
+    console.log('verificar otra cosa');
+}
