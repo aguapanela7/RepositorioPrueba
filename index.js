@@ -1,1 +1,5 @@
-console.log('hola');
+function comprar (){
+    console.log('compra exitosa');
+}
+
+comprar();
